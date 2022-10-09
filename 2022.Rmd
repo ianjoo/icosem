@@ -1,0 +1,18 @@
+---
+title: "IcoSem 2022"
+description: |
+  IcoSem 2022
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Date: 14 November 2022
+
+Time: 9:55 - 17:05 (GMT)
+
+[Program](IcoSem2022_program.pdf)
+
+[Registration](https://forms.gle/iAZLuqZAvyNR6MAMA)

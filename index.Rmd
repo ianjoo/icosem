@@ -1,5 +1,5 @@
 ---
-title: "The Iconicity Seminar (IcoSem)"
+title: "The Iconicity Seminar"
 description: |
   Welcome to the website of the Iconicity Seminar, on annual online conference dedicated to linguistic iconicity.
 site: distill::distill_website
@@ -9,3 +9,4 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+IcoSem 2022 will be held on 14 November 2022.

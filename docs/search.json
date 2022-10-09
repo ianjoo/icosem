@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "2022.html",
+      "title": "IcoSem 2022",
+      "description": "IcoSem 2022\n",
+      "author": [],
+      "contents": "\nDate: 14 November 2022\nTime: 9:55 - 17:05 (GMT)\nProgram\nRegistration\n\n\n\n",
+      "last_modified": "2022-10-09T13:43:20+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "The Iconicity Seminar",
+      "description": "Welcome to the website of the Iconicity Seminar, on annual online conference dedicated to linguistic iconicity.\n",
+      "author": [],
+      "contents": "\nIcoSem 2022 will be held on 14 November 2022.\n\n\n\n",
+      "last_modified": "2022-10-09T13:43:21+08:00"
+    }
+  ],
+  "collections": []
+}
