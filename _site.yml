@@ -1,0 +1,11 @@
+name: "icosem"
+title: "icosem"
+theme: theme.css
+description: |
+  The Iconicity Seminar
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article
