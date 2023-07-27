@@ -8,6 +8,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "IcoSem 2022"
+    - text: "IcoSem 2023"
+      href: 2023.html
+    - text: "IcoSem 2022 (archive)"
       href: 2022.html
 output: distill::distill_article

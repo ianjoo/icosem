@@ -1,0 +1,53 @@
+---
+title: "IcoSem 2023"
+description: |
+  IcoSem 2023
+site: distill::distill_website
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE)
+```
+
+IcoSem 2023 will be held on 25 November 2023 from GMT 0:00am to GMT 12:00 noon.
+
+This is equivalent to:
+
+```{r echo = FALSE}
+df <- 
+  data.frame(City = c('Vancouver', 'Sao Paulo', 'Johannesburg', 'New Delhi', 'Jakarta'),
+             From = c('24 Nov 4:00pm', '24 Nov 9:00pm', '25 Nov 2:00am', '25 Nov 5:30am', '25 Nov 7:00am'),
+             To = c('25 Nov 4:00am', '25 Nov 9:00am', '25 Nov 2:00pm', '25 Nov 5:30pm', '25 Nov 7:00pm'))
+
+kable(df)
+```
+
+This long time frame will allow participants all over the world in different time zones to participate in whichever time slot(s) they are available in.
+
+# Call for papers
+
+We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
+
+* Sound symbolism
+* Onomatopoeia and ideophones
+* Sign language iconicity
+* Syntactic iconicity
+* Iconicity and language change
+* Iconicity in writing systems
+* Phonaesthetics
+* Phonaesthemes
+
+Please send a 2-page abstract (including everything) in the following format:
+
+* A4 paper
+* 2.5cm margin
+* 12pt Times New Roman
+
+Please send your anonymized abstract to [ian_joo@nucba.ac.jp](mailto:ian_joo@nucba.ac.jp). Your anonymous abstract will then be reviewed by two anonymous reviewers.
+
+The deadline is September 30. Decisions will be communicated to you on a rolling basis within two weeks after submission.
+
+There is no participation fee.
+
+Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
