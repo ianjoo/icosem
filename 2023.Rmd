@@ -16,9 +16,9 @@ This is equivalent to:
 
 ```{r echo = FALSE}
 df <- 
-  data.frame(City = c('Vancouver', 'Sao Paulo', 'Johannesburg', 'New Delhi', 'Jakarta'),
-             From = c('24 Nov 4:00pm', '24 Nov 9:00pm', '25 Nov 2:00am', '25 Nov 5:30am', '25 Nov 7:00am'),
-             To = c('25 Nov 4:00am', '25 Nov 9:00am', '25 Nov 2:00pm', '25 Nov 5:30pm', '25 Nov 7:00pm'))
+  data.frame(City = c('Vancouver', 'Sao Paulo', 'Johannesburg', 'New Delhi', 'Tokyo'),
+             From = c('24 Nov 4:00pm', '24 Nov 9:00pm', '25 Nov 2:00am', '25 Nov 5:30am', '25 Nov 9:00am'),
+             To = c('25 Nov 4:00am', '25 Nov 9:00am', '25 Nov 2:00pm', '25 Nov 5:30pm', '25 Nov 9:00pm'))
 
 kable(df)
 ```
