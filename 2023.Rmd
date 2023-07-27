@@ -1,7 +1,7 @@
 ---
 title: "IcoSem 2023"
 description: |
-  IcoSem 2023
+  Iconicity Seminar 2023
 site: distill::distill_website
 ---
 
@@ -10,7 +10,7 @@ library(knitr)
 opts_chunk$set(echo = FALSE)
 ```
 
-IcoSem 2023 will be held on 25 November 2023 from GMT 0:00am to GMT 12:00 noon.
+IcoSem 2023 will be held online on 25 November 2023 from GMT 0:00am to GMT 12:00 noon.
 
 This is equivalent to:
 

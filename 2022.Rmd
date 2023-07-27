@@ -1,7 +1,7 @@
 ---
 title: "IcoSem 2022"
 description: |
-  IcoSem 2022
+  Iconicity Seminar 2022
 site: distill::distill_website
 ---
 
