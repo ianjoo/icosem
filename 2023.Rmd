@@ -10,15 +10,15 @@ library(knitr)
 opts_chunk$set(echo = FALSE)
 ```
 
-IcoSem 2023 will be held online on 25 November 2023 from GMT 0:00am to GMT 12:00 noon.
+IcoSem 2023 will be held online on 25 November 2023 from GMT 7:00am to GMT 7:00pm.
 
 This is equivalent to:
 
 ```{r echo = FALSE}
 df <- 
   data.frame(City = c('Vancouver', 'Sao Paulo', 'Johannesburg', 'New Delhi', 'Tokyo'),
-             From = c('24 Nov 4:00pm', '24 Nov 9:00pm', '25 Nov 2:00am', '25 Nov 5:30am', '25 Nov 9:00am'),
-             To = c('25 Nov 4:00am', '25 Nov 9:00am', '25 Nov 2:00pm', '25 Nov 5:30pm', '25 Nov 9:00pm'))
+             From = c('24 Nov 11:00pm', '25 Nov 4:00pm', '25 Nov 9:00am', '25 Nov 12:30pm', '25 Nov 4:00pm'),
+             To = c('25 Nov 11:00am', '25 Nov 4:00am', '25 Nov 9:00pm', '26 Nov 00:30am', '26 Nov 4:00am'))
 
 kable(df)
 ```
