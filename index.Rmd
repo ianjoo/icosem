@@ -1,7 +1,7 @@
 ---
 title: "The Iconicity Seminar"
 description: |
-  Welcome to the website of the Iconicity Seminar, on annual online conference dedicated to linguistic iconicity.
+  Welcome to the website of the Iconicity Seminar, an annual online conference dedicated to linguistic iconicity.
 site: distill::distill_website
 ---
 
