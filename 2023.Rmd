@@ -25,6 +25,8 @@ kable(df)
 
 This long time frame will allow participants all over the world in different time zones to participate in whichever time slot(s) they are available in.
 
+The main language of the conference will be English, spoken and written with live transcription. Those wishing to present in a sign language are welcome do so, in which case English subtitles shall be provided.
+
 # Call for papers
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
