@@ -7,6 +7,8 @@ site: distill::distill_website
 
 ```{r setup, include = FALSE}
 library(knitr)
+library(readxl)
+library(tidyverse)
 opts_chunk$set(echo = FALSE)
 ```
 
@@ -27,7 +29,23 @@ This long time frame will allow participants all over the world in different tim
 
 The main language of the conference will be English, spoken and written with live transcription. Those wishing to present in a sign language are welcome do so, in which case English subtitles shall be provided.
 
-# Call for papers
+# Plenary speaker: Neil Cohn (Tilburg University)
+
+***Multimodality, iconcity, and visual lexicons***
+
+The traditional view has held that language is an amodal and arbitrary system that is mutable across different modalities. Yet, recent work on expressions in the bodily and graphic modalities have complicated this view, especially in light of multimodal communication. Here, I present a model of a multimodal language faculty which intrinsically maintains components for the vocal, bodily, and graphic modalities. This model inherently allows for conventionalization of all types of signification, including iconicity. I will illustrate this further by showing the extensive standardized visual lexicons using linguistic structures in purely graphic systems across the world. Altogether, this heralds a re-understanding of what language is.
+
+# Accepted papers
+
+```{r echo = FALSE}
+papers <- 
+  read_xlsx('IcoSem2023Program.xlsx') %>% 
+  select(-Time)
+
+kable(papers)
+```
+
+# Call for papers (Closed)
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
 
