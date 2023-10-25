@@ -41,7 +41,7 @@ The traditional view has held that language is an amodal and arbitrary system th
 
 Each talk will be 20 minutes presentation and 10 minutes Q&A.
 
-\* = Presenter
+※ = Presenter
 
 ```{r echo = FALSE}
 papers <- 
