@@ -9,7 +9,9 @@ site: distill::distill_website
 library(knitr)
 library(readxl)
 library(tidyverse)
+
 opts_chunk$set(echo = FALSE)
+options(knitr.kable.NA = '')
 ```
 
 IcoSem 2023 will be held online on 25 November 2023 from GMT 7:00am to GMT 7:00pm.
@@ -35,12 +37,16 @@ The main language of the conference will be English, spoken and written with liv
 
 The traditional view has held that language is an amodal and arbitrary system that is mutable across different modalities. Yet, recent work on expressions in the bodily and graphic modalities have complicated this view, especially in light of multimodal communication. Here, I present a model of a multimodal language faculty which intrinsically maintains components for the vocal, bodily, and graphic modalities. This model inherently allows for conventionalization of all types of signification, including iconicity. I will illustrate this further by showing the extensive standardized visual lexicons using linguistic structures in purely graphic systems across the world. Altogether, this heralds a re-understanding of what language is.
 
-# Accepted papers
+# Program
+
+Each talk will be 20 minutes presentation and 10 minutes Q&A.
+
+\* = Presenter
 
 ```{r echo = FALSE}
 papers <- 
   read_xlsx('IcoSem2023Program.xlsx') %>% 
-  select(-Time)
+  mutate(`Time (GMT)` = substr(`Time (GMT)`, 12, 16))
 
 kable(papers)
 ```
