@@ -55,6 +55,10 @@ kable(papers)
 
 [Book of abstracts](IcoSem2023BookOfAbstracts.pdf)
 
+# Registration
+
+[Register here (no participation fee)](https://forms.gle/rpyM6h43apS8hMG58)
+
 # Call for papers (Closed)
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
