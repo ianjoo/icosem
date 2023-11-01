@@ -51,6 +51,10 @@ papers <-
 kable(papers)
 ```
 
+# Book of abstracts
+
+[Book of abstracts](IcoSem2023BookOfAbstracts.pdf)
+
 # Call for papers (Closed)
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
