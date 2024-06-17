@@ -9,7 +9,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "IcoSem 3 (2025)"
-      href: IcoSem3.html
+      href: 3.html
     - text: "IcoSem 2023 (archive)"
       href: 2023.html
     - text: "IcoSem 2022 (archive)"
