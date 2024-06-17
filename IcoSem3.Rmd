@@ -1,0 +1,50 @@
+---
+title: "IcoSem3"
+description: |
+  The 3rd Iconicity Seminar
+site: distill::distill_website
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+library(readxl)
+library(tidyverse)
+
+opts_chunk$set(echo = FALSE)
+options(knitr.kable.NA = '')
+```
+
+The Iconicity Seminar (IcoSem) is an international conference dedicated to linguistic iconicity, the resemblance between linguistic form and meaning.
+
+Previously an online conference, the 3rd IcoSem (IcoSem 3) will be held on 8-9 February 2025 in hybrid mode, hosted by the Otaru University of Commerce (Otaru, Japan).
+
+# Call for papers
+
+We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
+
+* Sound symbolism
+* Onomatopoeia and ideophones
+* Sign language iconicity
+* Syntactic iconicity
+* Iconicity and language change
+* Iconicity in writing systems
+* Phonaesthetics
+* Phonaesthemes
+
+Please send a 2-page abstract (including everything) in the following format:
+
+* A4 paper
+* 2.5cm margin
+* 12pt Times New Roman
+
+Please send your anonymized abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp). Your anonymous abstract will then be reviewed by two anonymous reviewers.
+
+The deadline is 30 September 2024. Decisions will be communicated to you on a rolling basis within two weeks after submission.
+
+The participation fee is ¥1,000 (ca. 6.5 USD) for students and ¥2,000 (ca. 13 USD) for non-students.
+
+Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
+
+# About Otaru
+
+Otaru is a small coastal city in Hokkaido, the northernmost province of Japan. It is a popular tourist destination constantly rated as one of the most attractive Japanese cities. The Otaru Snow Light Path Festival will also take place in mid February, which the participants of the conference may be able to enjoy. The nearest airport is the New Chitose Airport (CTS), which has connections to several major Asian Pacific cities.
