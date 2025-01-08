@@ -42,6 +42,10 @@ papers <-
 kable(papers)
 ```
 
+# Registration
+
+To register for the conference as an online auditor, please click [here](https://forms.gle/AxAizKJN5pkrc7oTA). (The  presenters need not register)
+
 # Call for papers (closed)
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
