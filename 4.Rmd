@@ -1,0 +1,72 @@
+---
+title: "IcoSem4"
+description: |
+  The 4th Iconicity Seminar
+site: distill::distill_website
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+library(readxl)
+library(tidyverse)
+
+opts_chunk$set(echo = FALSE)
+options(knitr.kable.NA = '')
+```
+
+The Iconicity Seminar (IcoSem) is an international conference dedicated to linguistic iconicity, the resemblance between linguistic form and meaning.
+
+The 4th Iconicity Seminar (IcoSem 4) will be held on 21-22 February 2026 at Nagoya University (Nagoya, Japan).
+
+# Invited speakers
+
+TBA
+
+# Call for papers
+
+We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
+
+* Sound symbolism
+* Onomatopoeia and ideophones
+* Sign language iconicity
+* Syntactic iconicity
+* Iconicity and language change
+* Iconicity in writing systems
+* Phonaesthetics
+* Phonaesthemes
+
+Please send a 2-page abstract (including everything) in the following format:
+
+* A4 paper
+* 2.5cm margin
+* 12pt Times New Roman
+
+Please send your anonymized abstract to [Hinano Iida](mailto:iida.hinano.i1s@mail.nagoya-u.ac.jp). Your anonymous abstract will then be reviewed by two anonymous reviewers.
+
+The deadline is **1 October 2025**. Decisions will be communicated to you on a rolling basis within two weeks.
+
+Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
+
+# About Nagoya
+
+Nagoya is a city located in central Japan. 
+
+The nearest international airports are:
+
+ * Chubu Centrair International Airport (Nagoya)
+ * Kansai International Airport (Osaka)
+ * Haneda Airport (Tokyo)
+ * Narita International Airport (Tokyo)
+ 
+The attractions in Nagoya and nearby cities include:
+
+ * Nagoya Castle
+ * Hisaya-Odori Park
+ * Port of Nagoya Aquarium
+ * Ghibli Park (in Nagakute)
+ * Inuyama Castle (in Inuyama)
+
+# Organizers
+
+ * Hinano Iida
+ * Ian Joo
