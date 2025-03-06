@@ -86,7 +86,7 @@ All rows must end with a semi-colon.                      */
   
   .distill-site-header {
     --title-size:       18px;
-    --text-color:       #ff0048;
+    --text-color:       skyblue;
       --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
@@ -112,8 +112,18 @@ All rows must end with a semi-colon.                      */
 }
 
 d-title {
-  background-color: rgba(200, 0, 0, 0.5);
+  background-image: url(Nagoya.jpg);
+  background-size: 100%;
+  background-position: center;
   color: white;
+  font-weight: 1000;
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  text-shadow: 
+    -1px -1px 5px skyblue,  
+     1px -1px 5px skyblue,
+    -1px  1px 5px skyblue,
+     1px  1px 5px skyblue;
 }
 
 .posts-list > h1 {
