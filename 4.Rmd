@@ -14,7 +14,7 @@ opts_chunk$set(echo = FALSE)
 options(knitr.kable.NA = '')
 ```
 
-**IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together, on **21-23 February 2026** at **Nagoya University (Nagoya, Japan)**.
+**IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together, on **21-23 February 2026** at [**Nagoya University (Nagoya, Japan)**](https://en.nagoya-u.ac.jp/).
 
 # Invited speakers
 
@@ -51,11 +51,9 @@ Please submit your anonymous abstract via Easychair (available soon). Your abstr
 
 The deadline is **31 August 2025**, but we encourage each participant to **submit as soon as you are ready to**, as decisions will be communicated to you on a rolling basis within two weeks from your submission (and not necessarily after the deadline). This will allow you to plan your trip well in advance.
 
-Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
-
 # About Nagoya
 
-Nagoya is a city located in central Japan. 
+[Nagoya](https://en.wikipedia.org/wiki/Nagoya) is a city located in central Japan, easily accessible from Tokyo or Osaka.
 
 The nearest international airports are:
 
@@ -66,11 +64,11 @@ The nearest international airports are:
  
 The attractions in Nagoya and nearby cities include:
 
- * Nagoya Castle
- * Hisaya-Odori Park
- * Port of Nagoya Aquarium
+ * [Nagoya Castle](https://www.nagoyajo.city.nagoya.jp/en/)
+ * [Hisaya-Odori Park](https://mitsui-shopping-park.com/urban/hisaya/)
+ * [Port of Nagoya Aquarium](https://nagoyaaqua.jp/english/)
  * [Ghibli Park](https://ghibli-park.jp/en/) (in Nagakute)
- * Inuyama Castle (in Inuyama)
+ * [Inuyama Castle](https://inuyamajo.jp/) (in Inuyama)
  
 We plan to arrange a group tour to the Ghibli Park for the participants who are interested. Please let the organizers know well before the conference, as the park is very popular and the tickets typically need to be booked two months in advance.
 
@@ -79,3 +77,7 @@ We plan to arrange a group tour to the Ghibli Park for the participants who are 
  * [Hinano Iida](https://sites.google.com/view/hinanoiida)
  * [Ian Joo](https://ianjoo.github.io)
  * [Kimi Akita](https://sites.google.com/site/akitambo/Home)
+ 
+# Links
+
+Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
