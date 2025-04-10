@@ -1,7 +1,7 @@
 ---
-title: "IcoSem4"
+title: "IcoLL2026"
 description: |
-  The 4th Iconicity Seminar
+  Joint conference of the 4th Iconicity Seminar (IcoSem) and the 15th International Symposium on Iconicity in Language and Literature (ILL)
 site: distill::distill_website
 ---
 
@@ -14,26 +14,33 @@ opts_chunk$set(echo = FALSE)
 options(knitr.kable.NA = '')
 ```
 
-The Iconicity Seminar (IcoSem) is an international conference dedicated to linguistic iconicity, the resemblance between linguistic form and meaning.
-
-The 4th Iconicity Seminar (IcoSem 4) will be held on 21-22 February 2026 at Nagoya University (Nagoya, Japan).
+**IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together, on **21-23 February 2026** at **Nagoya University (Nagoya, Japan)**.
 
 # Invited speakers
 
-TBA
+ * [Mutsumi Imai](https://researchmap.jp/imai_mutsumi?lang=en)
+ * [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
+ * TBA
 
 # Call for papers
 
-We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
-
-* Sound symbolism
-* Onomatopoeia and ideophones
-* Sign language iconicity
-* Syntactic iconicity
-* Iconicity and language change
-* Iconicity in writing systems
-* Phonaesthetics
-* Phonaesthemes
+Theme: **Variations and Dynamics in Iconicity**
+ 
+We invite abstracts of any academic work on **iconicity**, the resemblance between form and meaning, in language or literature. We particularly invite contributions that explore the multifaceted nature of iconicity, encompassing its variations and dynamics across different conceptual domains, languages, cultures, and developmental stages. Topics of interest include, but are not limited to, the following:
+ 
+ * Iconicity in the speech signal (sound symbolism, phonaesthemes, ideophones)
+ * Iconicity in grammar and text
+ * Iconicity in literature
+ * Iconicity in sign languages
+ * Iconicity in gestures
+ * Iconicity in pictures and other visual media
+ * Iconicity in music
+ * Iconicity in narration
+ * Iconicity in imagination (mental imagery)
+ * Iconicity across sensory modalities (multimodality and cross-modality)
+ * Iconicity in language evolution
+ * Iconicity in child development
+ * Iconicity among different forms of intelligence (animals, humans, AI, etc.)
 
 Please send a 2-page abstract (including everything) in the following format:
 
@@ -43,7 +50,7 @@ Please send a 2-page abstract (including everything) in the following format:
 
 Please send your anonymized abstract to [Hinano Iida](mailto:iida.hinano.i1s@mail.nagoya-u.ac.jp). Your anonymous abstract will then be reviewed by two anonymous reviewers.
 
-The deadline is **1 October 2025**. Decisions will be communicated to you on a rolling basis within two weeks.
+The deadline is **1 October 2025**, but we encourage each participant to **submit as soon as you are ready to**, as decisions will be communicated to you on a rolling basis within two weeks from your submission (and not necessarily after the deadline). This will allow you to plan your trip well in advance.
 
 Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
 
@@ -53,20 +60,23 @@ Nagoya is a city located in central Japan.
 
 The nearest international airports are:
 
- * Chubu Centrair International Airport (Nagoya)
- * Kansai International Airport (Osaka)
- * Haneda Airport (Tokyo)
- * Narita International Airport (Tokyo)
+ * Chubu Centrair International Airport (Nagoya) - 1 hour to Nagoya University
+ * Kansai International Airport (Osaka) - 3 hours
+ * Haneda Airport (Tokyo) - 3 hours
+ * Narita International Airport (Tokyo) - 4 hours
  
 The attractions in Nagoya and nearby cities include:
 
  * Nagoya Castle
  * Hisaya-Odori Park
  * Port of Nagoya Aquarium
- * Ghibli Park (in Nagakute)
+ * [Ghibli Park](https://ghibli-park.jp/en/) (in Nagakute)
  * Inuyama Castle (in Inuyama)
+ 
+We plan to arrange a group tour to the Ghibli Park for the participants who are interested. Please let the organizers know well before the conference, as the park is very popular and the tickets typically need to be booked two months in advance.
 
 # Organizers
 
- * Hinano Iida
- * Ian Joo
+ * [Hinano Iida](https://sites.google.com/view/hinanoiida)
+ * [Ian Joo](https://ianjoo.github.io)
+ * [Kimi Akita](https://sites.google.com/site/akitambo/Home)
