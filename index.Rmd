@@ -10,4 +10,4 @@ library(knitr)
 opts_chunk$set(echo = FALSE)
 ```
 
-The 4th Iconicity Seminar will be held on 21-22 February 2026 at Nagoya University, Japan.
+The 4th Iconicity Seminar will be held on 21-23 February 2026 at Nagoya University, Japan, jointly with the 15th International Symposium on Iconicity in Language and Literature.
