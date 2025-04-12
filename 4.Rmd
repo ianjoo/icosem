@@ -19,7 +19,7 @@ options(knitr.kable.NA = '')
 # Invited speakers
 
  * [Mutsumi Imai](https://researchmap.jp/imai_mutsumi?lang=en)
- * [Saji Noburo](https://researchmap.jp/nonsvch?lang=en)
+ * [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
  * TBA
 
 # Call for papers
