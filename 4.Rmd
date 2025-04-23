@@ -20,6 +20,7 @@ options(knitr.kable.NA = '')
 
  * [Mutsumi Imai](https://researchmap.jp/imai_mutsumi?lang=en)
  * [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
+ * [Pamela Perniss](https://www.pernipa.myzen.co.uk/index.html)
  * TBA
 
 # Call for papers
