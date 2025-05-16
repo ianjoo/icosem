@@ -14,7 +14,7 @@ opts_chunk$set(echo = FALSE)
 options(knitr.kable.NA = '')
 ```
 
-**IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together, on **21-23 February 2026** at [**Nagoya University (Nagoya, Japan)**](https://en.nagoya-u.ac.jp/).
+**IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together on **21-23 February 2026** hosted by **Nagoya University Graduate School of Humanities**.
 
 # Invited speakers
 
@@ -89,6 +89,8 @@ We plan to arrange a group tour to the Ghibli Park for the participants who are 
  * [Hinano Iida](https://sites.google.com/view/hinanoiida)
  * [Ian Joo](https://ianjoo.github.io)
  * [Kimi Akita](https://sites.google.com/site/akitambo/Home)
+ 
+IcoLL2026 is 
  
 # Links
 
