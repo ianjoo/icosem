@@ -18,7 +18,7 @@ options(knitr.kable.NA = '')
 
 # Invited speakers
 
- * [Mutsumi Imai](https://researchmap.jp/imai_mutsumi?lang=en)
+ * [Mutsumi Imai](https://cogpsy.sfc.keio.ac.jp/imailab/profile-en/)
  * [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
  * [Pamela Perniss](https://www.pernipa.myzen.co.uk)
  * [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
