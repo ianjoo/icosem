@@ -18,10 +18,36 @@ options(knitr.kable.NA = '')
 
 # Invited speakers
 
- * [Mutsumi Imai](https://cogpsy.sfc.keio.ac.jp/imailab/profile-en/)
- * [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
- * [Pamela Perniss](https://www.pernipa.myzen.co.uk)
- * [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
+## [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
+
+**A Structural Perspective on Relational Similarity in Iconicity**
+
+<details>
+  <summary>See abstract</summary>
+
+This presentation explores the potential of a structural approach to account for the motivation behind iconicity. Previous studies on iconicity have identified two major types of similarity: direct (perceptual) similarity and relational similarity (Dingemanse, 2011; Iida & Akita, 2024). Direct similarity refers to similarities between distinct entities based on shared features along specific dimensions (e.g., shape or sound). In contrast, relational similarity involves the structural alignment between the relationships among elements (e.g., shape-shape-relationships and sound-sound relationships). Researchers have noted that cross-modal iconicity must be understood from the perspective of relational similarity (Ahlner & Zlatev, 2011; Marks, 1989). While the psychological basis of relational similarity has been extensively studied, its application to iconicity research remains underdeveloped.　In this context, the present study draws attention to a structural approach, which has recently gained prominence in consciousness research. This approach investigates properties of unobservable phenomena—such as subjective experience—by analyzing the relational structure among surrounding elements, rather than attempting to access the target phenomenon directly (e.g., Kawakita et al., 2024). Using examples of cross-modal iconicity, this presentation examines how structural consistency across modalities can be evaluated, and discusses the implications of this approach for understanding the relational foundations of iconic mappings.
+
+<ul>
+<li style="color:gray">Ahlner, F., & Zlatev, J. (2010). Cross-modal iconicity: A cognitive semiotic approach to sound symbolism. Sign Systems Studies, 38(1/4), 298–348.</li>
+<li style="color:gray">Dingemanse, M. (2011). The Meaning and Use of Ideophones in Siwu [PhD dissertation, Radboud University.</li>
+<li style="color:gray">Iida, H., & Akita, K. (2024). Iconicity emerges from language experience: Evidence from Japanese ideophones and their English equivalents. Cognitive Science, 48(12), Article e70031. https://doi.org/10.1111/cogs.70031</li>
+<li style="color:gray">Kawakita, G., Zeleznikow-Johnston, A., Takeda, K., Tsuchiya, N., & Oizumi, M. (2025). Is my “red” your “red”?: Evaluating structural correspondences between color similarity judgments using unsupervised alignment. iScience, 28(3), 112029.</li>
+<li style="color:gray">Marks, L. E. (1989). On cross-modal similarity: The perceptual structure of pitch, loudness, and brightness. Journal of Experimental Psychology. Human Perception and Performance, 15(3), 586–602.</li>
+</ul>
+
+</details>
+
+## [Mutsumi Imai](https://cogpsy.sfc.keio.ac.jp/imailab/profile-en/)
+
+TBA
+
+## [Pamela Perniss](https://www.pernipa.myzen.co.uk)
+
+TBA
+
+## [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
+
+TBA
 
 # Call for papers
 
@@ -56,6 +82,15 @@ The deadline is **31 August 2025**, but we encourage each participant to **submi
 Each submission will be allocated as either an oral presentation (20min talk + 10min Q&A) or a poster presentation, based on the review and the presenter's preference. Only one abstract submission is permitted per each first author - there is no restriction on the number of abstracts as a non-first author.
 
 After the conference, the presenters will be invited to submit a post-conference proceedings paper to the [Iconicity in Language and Literature](https://benjamins.com/catalog/ill) series (John Benjamins).
+
+# Accepted papers (so far)
+
+ * Aimée **Lahaussois** - *Thulung ideophones in their areal landscape*
+ * Agniezka **Karpowicz** - *Iconicity in the writer's archive*
+ * James **Tai** - *Internal Iconicity within languages and across modalities*
+ * Livia **Kortvelyessy**; Pavol **Stekauer** - *An onomasiological model of onomatopoeia-formation*
+ * Chi Lim **Ng** - *The Iconicity of Form and Meaning in the Poetry of Su Shi and Jiang Fengchen*
+
 
 # Format of the conference
 IcoLL2026 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
