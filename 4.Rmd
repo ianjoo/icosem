@@ -75,7 +75,7 @@ Please send a 2-page abstract (including everything) in the following format:
 * 2.5cm margin
 * 12pt Times New Roman
 
-Please submit your anonymized abstract to Ian Joo at joo@res.otaru-uc.ac.jp. Your abstract will then go through a single-blind review by two anonymous reviewers.
+Please submit your abstract to Ian Joo at joo@res.otaru-uc.ac.jp. Your abstract will then go through a single-blind review by two anonymous reviewers. As it is a single-blind review, your abstract does not have to be anonymized.
 
 The deadline is **31 August 2025**, but we encourage each participant to **submit as soon as you are ready to**, as decisions will be communicated to you on a rolling basis within two weeks from your submission (and not necessarily after the deadline). This will allow you to plan your trip well in advance.
 
@@ -90,6 +90,9 @@ After the conference, the presenters will be invited to submit a post-conference
  * James **Tai** - *Internal Iconicity within languages and across modalities*
  * Livia **Kortvelyessy**; Pavol **Stekauer** - *An onomasiological model of onomatopoeia-formation*
  * Chi Lim **Ng** - *The Iconicity of Form and Meaning in the Poetry of Su Shi and Jiang Fengchen*
+ * Adéla **Dvořáková** - *Sound Symbolism between Perception and Abstraction: Investigating Sound–Distance and Sound–Personality Associations among Czech Native Speakers*
+ * Anastasia **Kostetskaya** - *From Page to Stage: Iconicity of Emotion Across Verbal and Visual-Kinesthetic Modes*
+ * Niklas **Erben Johansson**; Andrey **Anikin** -  *Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation*
 
 
 # Format of the conference
