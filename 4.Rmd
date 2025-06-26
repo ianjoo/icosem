@@ -20,6 +20,8 @@ options(knitr.kable.NA = '')
 
 ## [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
 
+![Noburo Saji (Waseda University)](NoburoSaji.png){ width=30% }
+
 **A Structural Perspective on Relational Similarity in Iconicity**
 
 <details>
@@ -39,13 +41,31 @@ This presentation explores the potential of a structural approach to account for
 
 ## [Mutsumi Imai](https://cogpsy.sfc.keio.ac.jp/imailab/profile-en/)
 
-TBA
+![Mutsumi Imai (Keio University & Mutsumi Imai Educational Research Institute)](MutsumiImai.jpeg){ width=30% }
+
+**Iconicity bootstrapping hypothesis for the acquisition and evolution of language**
+ 
+<details>
+  <summary>See abstract</summary>
+  
+This talk refines Imai and Kita's (2014) "sound symbolism bootstrapping hypothesis" that states that iconic sound–meaning associations help children start acquiring spoken language and may also reside in the origin of human language. Iconicity, not limited to sound symbolism, tells children that linguistic forms are paired with meanings, and they expand and adjust their linguistic knowledge through an abductive reasoning. This self-driven developmental cycle may make humans different from other species.
+
+<ul>
+<li style="color:gray">Imai, Mutsumi, and Sotaro Kita. "The sound symbolism bootstrapping hypothesis for language acquisition and language evolution." Philosophical transactions of the Royal Society B: Biological sciences 369.1651 (2014): 20130298.</li>
+</ul>
+
+</details>
+
 
 ## [Pamela Perniss](https://www.pernipa.myzen.co.uk)
+
+![Pamela Perniss (University of Cologne)](PamelaPerniss.jpg){ width=30% }
 
 TBA
 
 ## [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
+
+![Neil Cohn (Tilburg University)](NeilCohn.jpg){ width=30% }
 
 TBA
 
@@ -85,6 +105,9 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Accepted papers (so far)
 
+<details>
+  <summary>See all the accepted papers so far</summary>
+
  * Aimée **Lahaussois** - *Thulung ideophones in their areal landscape*
  * Agniezka **Karpowicz** - *Iconicity in the writer's archive*
  * James **Tai** - *Internal Iconicity within languages and across modalities*
@@ -97,6 +120,7 @@ After the conference, the presenters will be invited to submit a post-conference
  * Natalia **Noland** and Elena **Besedina** - *Phonosemantic Analysis of Russian Dialect Words Denoting Noisy and Greedy Eating and Drinking*
  * Thomas **Sähn** and Saghie **Sharifzadeh** - *Iconicity Across Modalities: A Structural Comparison of Signed Languages with Written/Vocal and Pictorial Languages*
 
+</details>
 
 # Format of the conference
 IcoLL2026 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
