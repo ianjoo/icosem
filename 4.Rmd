@@ -20,7 +20,7 @@ options(knitr.kable.NA = '')
 
 ## [Noburo Saji](https://researchmap.jp/nonsvch?lang=en)
 
-![Noburo Saji (Waseda University)](NoburoSaji.png){ width=30% }
+![Noburo Saji (Waseda University)](NoburoSaji.png){ width=6cm }
 
 **A Structural Perspective on Relational Similarity in Iconicity**
 
@@ -41,7 +41,7 @@ This presentation explores the potential of a structural approach to account for
 
 ## [Mutsumi Imai](https://cogpsy.sfc.keio.ac.jp/imailab/profile-en/)
 
-![Mutsumi Imai (Keio University & Mutsumi Imai Educational Research Institute)](MutsumiImai.jpeg){ width=30% }
+![Mutsumi Imai (Keio University & Mutsumi Imai Educational Research Institute)](MutsumiImai.jpeg){ width=6cm }
 
 **Iconicity bootstrapping hypothesis for the acquisition and evolution of language**
  
@@ -59,13 +59,13 @@ This talk refines Imai and Kita's (2014) "sound symbolism bootstrapping hypothes
 
 ## [Pamela Perniss](https://www.pernipa.myzen.co.uk)
 
-![Pamela Perniss (University of Cologne)](PamelaPerniss.jpg){ width=30% }
+![Pamela Perniss (University of Cologne)](PamelaPerniss.jpg){ width=6cm }
 
 TBA
 
 ## [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
 
-![Neil Cohn (Tilburg University)](NeilCohn.jpg){ width=30% }
+![Neil Cohn (Tilburg University)](NeilCohn.jpg){ width=6cm }
 
 TBA
 
@@ -119,6 +119,7 @@ After the conference, the presenters will be invited to submit a post-conference
  * Thomas **Van Hoey**, Xiaoyu **Yu**, Shuhao **Zhang**, Youngah **Do**, and Dan **Dewey** - *Behavior mirrored in the brain: An fNIRS study of Chinese ideophone modality exclusivity*
  * Natalia **Noland** and Elena **Besedina** - *Phonosemantic Analysis of Russian Dialect Words Denoting Noisy and Greedy Eating and Drinking*
  * Thomas **Sähn** and Saghie **Sharifzadeh** - *Iconicity Across Modalities: A Structural Comparison of Signed Languages with Written/Vocal and Pictorial Languages*
+ * Petković **Lozo** - *Sonic Iconicity and the Flesh of the Earth: Perceptual Dynamics in The Skin of the Earth: Fragments (2024) by Paulo C. Chagas*
 
 </details>
 
