@@ -67,7 +67,14 @@ TBA
 
 ![Neil Cohn (Tilburg University)](NeilCohn.jpg){ width=6cm }
 
-TBA
+**Iconicity and visual languages in a multimodal language faculty** <span style="color:blue">(Note: Changed to virtual presentation)</span>
+
+<details>
+  <summary>See abstract</summary>
+
+For the past century, language has been considered as an amodal and arbitrary system that is mutable across different modalities. Yet, this view is confounded by multimodality (speech-gesture, text-images) and the full range of signification displayed by communicative systems (iconicity, indexicality, and symbolicity). Here, I first present a model of a multimodal language faculty which intrinsically maintains the vocal, bodily, and graphic modalities in parallel, and inherently embeds Peircean semiotics into its architecture. I will then show how this model not only enables a proliferation of signification in both the vocal and bodily modalities, but also specifies how linguistic structures emerge in pictorial systems, particularly in the rich conventionalization of visual languages of graphic systems across the world. Altogether, this approach heralds a re-understanding of what language is and the basic assumptions held about its properties.
+
+</details>
 
 # Call for papers
 
@@ -122,6 +129,7 @@ After the conference, the presenters will be invited to submit a post-conference
  * Petković **Lozo** - *Sonic Iconicity and the Flesh of the Earth: Perceptual Dynamics in The Skin of the Earth: Fragments (2024) by Paulo C. Chagas*
  * Rakesh **Cherucodu** - *Variations and Dynamics in Iconicity: A Study of Symbolic Liberation in Sree Narayana Guru’s Daiva Dasakam*
  * Willis Chun Lai **Wong** - *A Tale of Two Grammars: A Cophonological Analysis of Iconic Phonology*
+ * Marina **Gorlach** - *Are turn off the music and turn the music off two different signs? A semiotic analysis of iconicity in grammar*
 
 </details>
 
