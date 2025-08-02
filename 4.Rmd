@@ -141,6 +141,8 @@ Due to the difficulty of finding an English-to-JSL interpreter with expertise in
 # Participation fee
 The participation fee is 8,000 yen for students and 15,000 yen for non-students, to be paid by cash on site.
 
+The fee is waived for participants studying or working at a institution of a low income or lower middle income country (as defined by [World Bank](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)).
+
 # About Nagoya
 
 [Nagoya](https://en.wikipedia.org/wiki/Nagoya) is a city located in central Japan, easily accessible from Tokyo or Osaka.
