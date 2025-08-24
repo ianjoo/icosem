@@ -115,7 +115,6 @@ After the conference, the presenters will be invited to submit a post-conference
 <details>
   <summary>See all the accepted papers so far</summary>
   
-
  * Aimée **Lahaussois** - *Thulung ideophones in their areal landscape*
  * Agniezka **Karpowicz** - *Iconicity in the writer's archive*
  * James **Tai** - *Internal Iconicity within languages and across modalities*
@@ -143,6 +142,9 @@ After the conference, the presenters will be invited to submit a post-conference
  * Karolina **Prusiel** - *Line, circle, arrow. Word-image intertwining in the poetry of Ilse and Pierre Garnier*
  * Thị Tuyết Mai **Tăng** - *Iconicity in Semantic Shift: A Contrastive Analysis of Dimension and Physical Property Predicates in Vietnamese and English*
  * Jane **Tsay** and James **Myers** - *Iconicity and Handshape Type Frequency in Taiwan Sign Language*
+ * Yuki **Ishihara** - *Syntactic Doubling and Iconicity in Japanese*
+ * Kaijun **Sheng** - *Correlation between implicational hierarchy and loss of ideophonic lexemes: Evidence from Shanghainese*
+ * Yongju **Choi** - *Iconicity and Composite Utterances: Perspective Blending in KSL Narratives*
  
 </details>
 
