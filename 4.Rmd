@@ -115,43 +115,8 @@ After the conference, the presenters will be invited to submit a post-conference
 <details>
   <summary>See all the accepted papers so far</summary>
   
- * Aimée **Lahaussois** - *Thulung ideophones in their areal landscape*
- * Agniezka **Karpowicz** - *Iconicity in the writer's archive*
- * James **Tai** - *Internal Iconicity within languages and across modalities*
- * Livia **Kortvelyessy** and Pavol **Stekauer** - *An onomasiological model of onomatopoeia-formation*
- * Chi Lim **Ng** - *The Iconicity of Form and Meaning in the Poetry of Su Shi and Jiang Fengchen*
- * Adéla **Dvořáková** - *Sound Symbolism between Perception and Abstraction: Investigating Sound–Distance and Sound–Personality Associations among Czech Native Speakers*
- * Anastasia **Kostetskaya** - *From Page to Stage: Iconicity of Emotion Across Verbal and Visual-Kinesthetic Modes*
- * Niklas **Erben Johansson** and Andrey **Anikin** -  *Beautiful and hideous words: The effect of cross-linguistic phonesthetics and iconicity on word formation*
- * Thomas **Van Hoey**, Xiaoyu **Yu**, Shuhao **Zhang**, Youngah **Do**, and Dan **Dewey** - *Behavior mirrored in the brain: An fNIRS study of Chinese ideophone modality exclusivity*
- * Natalia **Noland** and Elena **Besedina** - *Phonosemantic Analysis of Russian Dialect Words Denoting Noisy and Greedy Eating and Drinking*
- * Thomas **Sähn** and Saghie **Sharifzadeh** - *Iconicity Across Modalities: A Structural Comparison of Signed Languages with Written/Vocal and Pictorial Languages*
- * Petković **Lozo** - *Sonic Iconicity and the Flesh of the Earth: Perceptual Dynamics in The Skin of the Earth: Fragments (2024) by Paulo C. Chagas*
- * Rakesh **Cherucodu** - *Variations and Dynamics in Iconicity: A Study of Symbolic Liberation in Sree Narayana Guru’s Daiva Dasakam*
- * Willis Chun Lai **Wong** - *A Tale of Two Grammars: A Cophonological Analysis of Iconic Phonology*
- * Marina **Gorlach** - *Are turn off the music and turn the music off two different signs? A semiotic analysis of iconicity in grammar*
- * Juliana **Neves-Müller** and Rolf **Kailuweit** - *Iconicity, Language and Migration: Collecting Data on Brazilian and Mexican Immigrants Politeness Accommodation in Germany through the Language Portrait Technique*
- * Mahayana C. **Godoy** - *Iconicity Norms for 6,000+ Brazilian Portuguese Words*
- * Elina **Shamina** - *Symmetries and Parallels in English and Russian Phonaesthemes*
- * Tomasz **Dyrmo** - *Iconic resemblance and metaphorical construal in distress relief posters*
- * Elina **Besedina**, Elena **Shamina**, and Olga **Gomzina** - *Names for rounded and pointed objects: iconicity verified (Japanese designations of roundness and sharpness perceived by Russian speakers)*
- * Bich Nha Truc **Nguyen** and Tooru **Inoue** - *The Iconicitity of “Shadow” from In Praise of Shadows (Tanizaki Junichiro) to Murakami Haruki’s Novels as the Key to Explore the Modern Japanese Psyche,  Aesthetic and Identity *
- * Xiaoben **Yuan** - *Icons at Work: Image, Diagram, and Metaphor in Children’s ‘Support’ Postcards*
- * Shih-Wen **Chyu** - *Visualizing “Xiang” in Classical Chinese Prose: AI-Based Structural Analysis of Shiji Chapters in Zeng Guofan’s Guwen Sixiang*
- * Webb **Rosemary** - *Going above and beyond: Iconic pitch and gesture extension in Hul’q’umi’num’*
- * Karolina **Prusiel** - *Line, circle, arrow. Word-image intertwining in the poetry of Ilse and Pierre Garnier*
- * Thị Tuyết Mai **Tăng** - *Iconicity in Semantic Shift: A Contrastive Analysis of Dimension and Physical Property Predicates in Vietnamese and English*
- * Jane **Tsay** and James **Myers** - *Iconicity and Handshape Type Frequency in Taiwan Sign Language*
- * Yuki **Ishihara** - *Syntactic Doubling and Iconicity in Japanese*
- * Kaijun **Sheng** - *Correlation between implicational hierarchy and loss of ideophonic lexemes: Evidence from Shanghainese*
- * Yongju **Choi** - *Iconicity and Composite Utterances: Perspective Blending in KSL Narratives*
- * William **Herlofsky** - *Getting the Bull by the Horns: Using the Terminology of Linguistics and Iconicity to Explain the Zen Ox Drawings*
- * Greeshma **Govindarajan** and Prakesh **Mondal** - *Unifying Iconic and Non-iconic Meanings of Reduplication: A Semantic Constraint*
- * Feier **Gao**, Chun Hau **Ngai**, and He **Zhou** - *Motion-mapped and Emotionally Trapped: Tonal Iconicity in the Domains of Spatial Motion and Emotional Valence*
- * Maryam **Torabi** - *Embodied Viewpoints and Iconicity in Grammatical Aspect: Evidence from Persian Proximative and Progressive Aspect*
- * Lenneke Doris **Lichtenberg**, Irmak **Hacımusaoğlu**, Bien **Klomberg**, Joost **Schilperoord*, and Neil **Cohn** - *Continuity and Co-reference in Emoji sequences: the Role of Visual Iconicity and Experience*
- 
- 
+<iframe src="ListofPresentations.html" width="100%" height="600px"></iframe>
+
 </details>
 
 # Format of the conference
