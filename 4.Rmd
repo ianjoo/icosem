@@ -102,7 +102,7 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-[<span style="color:blue">**Provosional program**</span>](IcoLL2026Program.pdf) (as of 6 Oct 2025)
+[<span style="color:blue">**Provosional program**</span>](IcoLL2026Program.pdf) (as of 7 Oct 2025)
 
 # Format of the conference
 IcoLL2026 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
