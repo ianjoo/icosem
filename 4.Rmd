@@ -138,7 +138,7 @@ We plan to arrange a group tour to the Ghibli Park for the participants who are 
 
 # Suggested hotels
 
-Below are some of the hotels we suggest for your stay in Nagoya.
+Below are some of the hotels we suggest for your stay in Nagoya. (The venue, Nagoya University, is shown in red.)
 
 ```{r}
 NagoyaHotels <- read_xlsx('NagoyaHotels.xlsx') %>% 
