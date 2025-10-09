@@ -110,9 +110,7 @@ Provisional program (as of 8 Oct 2025) [<span style="color:blue">(pdf)</span>](I
 Oral <- read_xlsx('IcoLL2026review.xlsx') %>% 
   filter(Type == 'Oral') %>% 
   select(Author, Title, Theme, Day, Room, Session) %>% 
-  mutate(AuthorTitle = paste0(Title, " (", Author, ")")) %>% 
-  mutate(`[Theme] Title (Author)` = paste0("[", Theme, "] ", AuthorTitle)) %>% 
-  select(`[Theme] Title (Author)`, Day, Room, Session) %>% 
+  select(Theme, Title, Author, Day, Room, Session) %>% 
   group_by(Day, Room, Session) %>% 
   mutate(Order = row_number()) %>% 
   arrange(Day, Room, Session, Order)
@@ -120,13 +118,11 @@ Oral <- read_xlsx('IcoLL2026review.xlsx') %>%
 Program <- read_xlsx('IcoLL2026program.xlsx') %>% 
   left_join(Oral, by = c('Day', 'Session', 'Order')) %>% 
   select(-Session, -Order) %>% 
-  select(Day, Time, Schedule, Room, `[Theme] Title (Author)`)
+  select(Day, Time, Schedule, Room, Theme, Title, Author)
 
 Poster <- read_xlsx('IcoLL2026review.xlsx') %>% 
   filter(Type == 'Poster') %>% 
-  select(Author, Title, Day) %>% 
-  mutate(`Title (Author)` = paste0(Title, " (", Author, ")")) %>% 
-  select(-Author, -Title)
+  select(Day, Title, Author)
 
 datatable(Program, rownames = FALSE)
 
