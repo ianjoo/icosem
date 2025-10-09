@@ -9,6 +9,7 @@ site: distill::distill_website
 library(knitr)
 library(readxl)
 library(tidyverse)
+library(leaflet)
 
 opts_chunk$set(echo = FALSE)
 options(knitr.kable.NA = '')
@@ -134,6 +135,23 @@ The attractions in Nagoya and nearby cities include:
  * [Inuyama Castle](https://inuyamajo.jp/) (in Inuyama)
  
 We plan to arrange a group tour to the Ghibli Park for the participants who are interested. Please let the organizers know well before the conference, as the park is very popular and the tickets typically need to be booked two months in advance.
+
+# Suggested hotels
+
+Below are some of the hotels we suggest for your stay in Nagoya.
+
+```{r}
+NagoyaHotels <- read_xlsx('NagoyaHotels.xlsx') %>% 
+  mutate(popup = paste0("<a href='", URL, "' target='_blank'>Website</a>"))
+
+leaflet(data = NagoyaHotels) %>% 
+  addTiles() %>% 
+  addCircleMarkers(lng = ~lon, lat = ~lat,
+             label = ~paste(Name),
+             fillColor = ~Venue,
+             popup = ~popup)
+```
+
 
 # Organizers
 
