@@ -148,6 +148,7 @@ leaflet(data = NagoyaHotels) %>%
   addTiles() %>% 
   addCircleMarkers(lng = ~lon, lat = ~lat,
              label = ~paste(Name),
+             color = ~Venue,
              fillColor = ~Venue,
              popup = ~popup)
 ```
