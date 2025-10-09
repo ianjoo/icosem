@@ -11,7 +11,9 @@ library(readxl)
 library(tidyverse)
 library(leaflet)
 library(DT)
+
 opts_chunk$set(echo = FALSE)
+
 ```
 
 **IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together on **21-23 February 2026** hosted by the **Nagoya University Graduate School of Humanities**.
@@ -109,17 +111,16 @@ Oral <- read_xlsx('IcoLL2026review.xlsx') %>%
   filter(Type == 'Oral') %>% 
   select(Author, Title, Theme, Day, Room, Session) %>% 
   mutate(AuthorTitle = paste0(Title, " (", Author, ")")) %>% 
-  mutate(ThemeAuthorTitle = paste0("[", Theme, "] ", AuthorTitle)) %>% 
-  select(ThemeAuthorTitle, Day, Room, Session) %>% 
+  mutate(`[Theme] Title (Author)` = paste0("[", Theme, "] ", AuthorTitle)) %>% 
+  select(`[Theme] Title (Author)`, Day, Room, Session) %>% 
   group_by(Day, Room, Session) %>% 
   mutate(Order = row_number()) %>% 
-  arrange(Day, Room, Session, Order) %>% 
-  pivot_wider(names_from = Room, values_from = ThemeAuthorTitle) %>% 
-  rename(`Room 1` = `1`, `Room 2` = `2`, `Room 3` = `3`, `Room 4` = `4`)
+  arrange(Day, Room, Session, Order)
 
 Program <- read_xlsx('IcoLL2026program.xlsx') %>% 
   left_join(Oral, by = c('Day', 'Session', 'Order')) %>% 
-  select(-Session, -Order)
+  select(-Session, -Order) %>% 
+  select(Day, Time, Schedule, Room, `[Theme] Title (Author)`)
 
 Poster <- read_xlsx('IcoLL2026review.xlsx') %>% 
   filter(Type == 'Poster') %>% 
@@ -127,13 +128,11 @@ Poster <- read_xlsx('IcoLL2026review.xlsx') %>%
   mutate(`Title (Author)` = paste0(Title, " (", Author, ")")) %>% 
   select(-Author, -Title)
 
-datatable(Program,
-          options = list(scrollX = TRUE))
+datatable(Program, rownames = FALSE)
 
 cat('List of poster presentations')
 
-datatable(Poster,
-          options = list(scrollX = TRUE))
+datatable(Poster, rownames = FALSE)
 
 ```
 
