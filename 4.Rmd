@@ -142,14 +142,13 @@ Below are some of the hotels we suggest for your stay in Nagoya.
 
 ```{r}
 NagoyaHotels <- read_xlsx('NagoyaHotels.xlsx') %>% 
-  mutate(popup = paste0("<a href='", URL, "' target='_blank'>Website</a>"))
+  mutate(popup = paste0(Name, "<br>", "<a href='", URL, "' target='_blank'>Website</a>"))
 
 leaflet(data = NagoyaHotels) %>% 
   addTiles() %>% 
   addCircleMarkers(lng = ~lon, lat = ~lat,
-             label = ~paste(Name),
-             color = ~Venue,
-             fillColor = ~Venue,
+             color = ~Color,
+             fillColor = ~Color,
              popup = ~popup)
 ```
 
