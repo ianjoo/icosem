@@ -124,11 +124,11 @@ Poster <- read_xlsx('IcoLL2026review.xlsx') %>%
   filter(Type == 'Poster') %>% 
   select(Day, Title, Author)
 
-datatable(Program, rownames = FALSE)
+datatable(Program, rownames = FALSE, option = list(scrollX = TRUE))
 
 cat('List of poster presentations')
 
-datatable(Poster, rownames = FALSE)
+datatable(Poster, rownames = FALSE, option = list(scrollX = TRUE))
 
 ```
 
