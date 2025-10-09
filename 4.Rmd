@@ -10,9 +10,10 @@ library(knitr)
 library(readxl)
 library(tidyverse)
 library(leaflet)
+library(kableExtra)
 
-opts_chunk$set(echo = FALSE)
 options(knitr.kable.NA = '')
+opts_chunk$set(echo = FALSE)
 ```
 
 **IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together on **21-23 February 2026** hosted by the **Nagoya University Graduate School of Humanities**.
@@ -103,7 +104,39 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-[<span style="color:blue">**Provosional program**</span>](IcoLL2026Program.pdf) (as of 8 Oct 2025)
+Provisional program (as of 8 Oct 2025) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
+
+```{r}
+Oral <- read_xlsx('IcoLL2026review.xlsx') %>% 
+  filter(Type == 'Oral') %>% 
+  select(Author, Title, Theme, Day, Room, Session) %>% 
+  mutate(AuthorTitle = paste0(Title, " (", Author, ")")) %>% 
+  mutate(ThemeAuthorTitle = paste0("[", Theme, "] ", AuthorTitle)) %>% 
+  select(ThemeAuthorTitle, Day, Room, Session) %>% 
+  group_by(Day, Room, Session) %>% 
+  mutate(Order = row_number()) %>% 
+  arrange(Day, Room, Session, Order) %>% 
+  pivot_wider(names_from = Room, values_from = ThemeAuthorTitle) %>% 
+  rename(`Room 1` = `1`, `Room 2` = `2`, `Room 3` = `3`, `Room 4` = `4`)
+
+Program <- read_xlsx('IcoLL2026program.xlsx') %>% 
+  left_join(Oral, by = c('Day', 'Session', 'Order')) %>% 
+  select(-Session, -Order)
+
+Poster <- read_xlsx('IcoLL2026review.xlsx') %>% 
+  filter(Type == 'Poster') %>% 
+  select(Author, Title, Day) %>% 
+  mutate(`Title (Author)` = paste0(Title, " (", Author, ")")) %>% 
+  select(-Author, -Title)
+
+kable(Program)
+
+cat('List of poster presentations')
+
+kable(Poster)
+
+```
+
 
 # Format of the conference
 IcoLL2026 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
