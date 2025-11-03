@@ -78,7 +78,20 @@ For the past century, language has been considered as an amodal and arbitrary sy
 
 </details>
 
+# Registration
+
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLScI-Kg5h8egPSY2fBn6Yrws9Z1YoIGQUsMQxAwGcCueEhCupw/viewform) for registration.
+
+Registration deadlines:
+
+ * **15 December** for presenters and those wishing to participate in the Ghibli Park tour
+ * **31 January** for non-presenters wishing to participate in the conference dinner
+ * **21 February** for all other non-presenters
+
 # Call for papers
+
+<details>
+  <summary>See call for papers (now closed)</summary>
 
 Theme: **Variations and Dynamics in Iconicity**
  
@@ -98,9 +111,9 @@ We invite abstracts of any academic work on **iconicity**, the resemblance betwe
  * Iconicity in child development
  * Iconicity among different forms of intelligence (animals, humans, AI, etc.)
 
-<span style="color:blue">**The call for papers is now closed.**</span>
-
 After the conference, the presenters will be invited to submit a post-conference proceedings paper to the [Iconicity in Language and Literature](https://benjamins.com/catalog/ill) series (John Benjamins).
+
+</details>
 
 # Program
 
