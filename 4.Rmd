@@ -117,7 +117,7 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-Provisional program (as of 19 Nov 2025) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
+Provisional program (as of 26 Nov 2025) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
 
 ```{r}
 Oral <- read_xlsx('IcoLL2026review.xlsx') %>% 
