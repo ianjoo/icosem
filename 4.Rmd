@@ -120,7 +120,7 @@ After the conference, the presenters will be invited to submit a post-conference
 Provisional program (as of 28 Nov 2025) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
 
 ```{r}
-Oral <- read_xlsx('IcoLL2026review.xlsx') %>% 
+Oral <- read_xlsx('IcoLL2026.xlsx') %>% 
   filter(Type == 'Oral') %>% 
   select(Author, Title, Theme, Day, Room, Session) %>% 
   select(Theme, Title, Author, Day, Room, Session) %>% 
@@ -134,7 +134,7 @@ Program <- read_xlsx('IcoLL2026program.xlsx') %>%
   select(Day, Time, Schedule, Room, Theme, Title, Author) %>% 
   arrange(Day, Time, Room)
 
-Poster <- read_xlsx('IcoLL2026review.xlsx') %>% 
+Poster <- read_xlsx('IcoLL2026.xlsx') %>% 
   filter(Type == 'Poster') %>% 
   select(Day, Title, Author) %>% 
   arrange(Day, Title, Author)
