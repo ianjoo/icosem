@@ -117,7 +117,7 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-Provisional program (as of 29 Dec 2025) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
+Provisional program (as of 10 Dec 2026) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
 
 ```{r}
 Oral <- read_xlsx('IcoLL2026.xlsx') %>% 
@@ -132,12 +132,19 @@ Program <- read_xlsx('IcoLL2026program.xlsx') %>%
   left_join(Oral, by = c('Day', 'Session', 'Order')) %>% 
   select(-Session, -Order) %>% 
   select(Day, Time, Schedule, Room, Theme, Title, Author) %>% 
-  arrange(Day, Time, Room)
+  arrange(Day, Time, Room) %>% 
+  mutate(Room = recode(Room,
+                       `1` = 'IB011',
+                       `2` = 'IB012',
+                       `3` = 'IB013',
+                       `4` = 'IB014'))
 
 Poster <- read_xlsx('IcoLL2026.xlsx') %>% 
   filter(Type == 'Poster') %>% 
   select(Day, Title, Author) %>% 
   arrange(Day, Title, Author)
+
+cat('The plenary talks will be held at Okuma Hall.')
 
 datatable(Program, rownames = FALSE, option = list(scrollX = TRUE))
 
@@ -157,6 +164,11 @@ Due to the difficulty of finding an English-to-JSL interpreter with expertise in
 The participation fee is 8,000 yen for students and 15,000 yen for non-students, to be paid by cash on site.
 
 The fee is waived for participants studying or working at a institution of a low income or lower middle income country (as defined by [World Bank](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)).
+
+# Maps of the venue
+
+* [Map of the 1st floor of Building IB](IcoLL2026floormap.pdf)
+* [Map of some recommended lunch places](IcoLL2026lunchmap.pdf)
 
 # About Nagoya
 
