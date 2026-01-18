@@ -117,7 +117,7 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-Provisional program (as of 10 Jan 2026) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
+Program (as of `r Sys.Date()`) [<span style="color:blue">(pdf)</span>](IcoLL2026Program.pdf)
 
 ```{r}
 Oral <- read_xlsx('IcoLL2026.xlsx') %>% 
@@ -141,8 +141,11 @@ Program <- read_xlsx('IcoLL2026program.xlsx') %>%
 
 Poster <- read_xlsx('IcoLL2026.xlsx') %>% 
   filter(Type == 'Poster') %>% 
-  select(Day, Title, Author) %>% 
-  arrange(Day, Title, Author)
+  select(Day, Title, Author) %>%
+  arrange(Day, Title, Author) %>% 
+  group_by(Day) %>% 
+  mutate(No. = row_number()) %>% 
+  relocate(Day, No., Title, Author)
 
 cat('The plenary talks will be held at Okuma Hall.')
 
