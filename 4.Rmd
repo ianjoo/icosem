@@ -63,7 +63,14 @@ This talk refines Imai and Kita's (2014) "sound symbolism bootstrapping hypothes
 
 ![Pamela Perniss (University of Cologne)](PamelaPerniss.jpg){ width=6cm }
 
-TBA
+**Harnessing iconicity for language learning**
+
+<details>
+  <summary>See abstract</summary>
+
+There is growing evidence that iconicity is an important feature of language and that it plays a role in language learning and processing. The mechanisms by and conditions under which this is the case, however, remain poorly understood. In this talk, I bring together various strands of research from both spoken and signed languages as well as L1 and L2 acquisition to provide an account of how and why iconicity can be harnessed for language learning. I use comparisons of iconicity in sign and gesture, and exploration of the relationship between iconicity and transparency, as well as cross-linguistic comparisons of iconicity in the lexicon of sign languages to help approach an understanding of the role of iconicity in supporting referential mapping and conceptual representation. From a theoretical perspective, I discuss the relationship between iconicity as structure-mapping and as a bridge between language and the world.
+
+</details>
 
 ## [Neil Cohn](https://www.visuallanguagelab.com/neilcohn)
 
