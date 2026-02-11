@@ -202,7 +202,23 @@ Program <- read_xlsx('IcoLL2026program.xlsx') %>%
                          Author)) %>% 
   mutate(Title = ifelse(Schedule == 'Plenary talk',
                          gsub("\\s*\\([^)]*\\)", "", Title),
-                         Title))
+                         Title))    %>% 
+  mutate(Title = 
+           ifelse(Schedule == 'Opening remarks',
+                  'Disentangling iconicity',
+                  Title)) %>% 
+  mutate(Author = 
+           ifelse(Schedule == 'Opening remarks',
+                  'Hinano Iida',
+                  Author)) %>% 
+  mutate(Schedule = 
+           ifelse(Schedule == 'Registration (IB012)',
+                  'Registration',
+                  Schedule)) %>% 
+  mutate(Room = 
+           ifelse(Schedule == 'Registration',
+                  'IB012',
+                  Room))
 
 Poster <- read_xlsx('IcoLL2026.xlsx') %>% 
   filter(Type == 'Poster') %>% 
