@@ -236,6 +236,10 @@ datatable(Poster, rownames = FALSE, option = list(scrollX = TRUE))
 
 ```
 
+# Book of abstracts
+
+[Book of abstracts](IcoLL2026Abstracts.pdf)
+
 # Format of the conference
 
 IcoLL2026 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
