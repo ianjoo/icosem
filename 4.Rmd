@@ -130,6 +130,8 @@ Registration deadlines:
 -   **31 January** for non-presenters wishing to participate in the conference dinner
 -   **20 February** for all other non-presenters
 
+ * On-site registration is also available.
+
 # Call for papers
 
 <details>
@@ -160,7 +162,7 @@ After the conference, the presenters will be invited to submit a post-conference
 
 # Program
 
-Program (as of `r Sys.Date()`) [[(pdf)](IcoLL2026Program.pdf)]{style="color:blue"}
+Program (Final version) [[(pdf)](IcoLL2026Program.pdf)]{style="color:blue"}
 
 ```{r}
 Oral <- read_xlsx('IcoLL2026.xlsx') %>% 
