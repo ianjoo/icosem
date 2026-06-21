@@ -8,8 +8,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "IcoLL2026 (IcoSem 4)" 
-      href: 4.html
+    - text: "IcoSem 5" 
+      href: 5.html
     - text: "Previous conferences"
       href: Previous.html
 output: distill::distill_article

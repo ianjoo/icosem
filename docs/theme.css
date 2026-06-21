@@ -57,6 +57,7 @@ All rows must end with a semi-colon.                      */
     --mono-font:       monospace;
     --body-font:       sans-serif;
     --navbar-font:     Atma;  /* websites + blogs only */
+    
   }
 
 /*-- ARTICLE METADATA --*/
@@ -86,7 +87,7 @@ All rows must end with a semi-colon.                      */
   
   .distill-site-header {
     --title-size:       18px;
-    --text-color:       skyblue;
+    --text-color:       pink;
       --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
@@ -111,28 +112,12 @@ All rows must end with a semi-colon.                      */
   min-width: 0px;
 }
 
-d-title {
-  background-image: url(Nagoya.jpg);
-  background-size: 150%;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: white;
-  font-weight: 1000;
-  font-family: Arial, sans-serif;
-  font-size: 36px;
-  text-shadow: 
-    -1px -1px 5px skyblue,  
-     1px -1px 5px skyblue,
-    -1px  1px 5px skyblue,
-     1px  1px 5px skyblue;
-}
-
 .posts-list > h1 {
   color: black!important;
 }
 
 d-title a {
-  color: white;
+  color: black;
 }
 
 d-byline {

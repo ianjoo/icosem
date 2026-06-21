@@ -5,6 +5,25 @@ description: |
 site: distill::distill_website
 ---
 
+```{css, echo=FALSE}
+d-title {
+  background-image: url(Nagoya.jpg);
+  background-size: 150%;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  font-weight: 1000;
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  text-shadow: 
+    -1px -1px 5px skyblue,  
+     1px -1px 5px skyblue,
+    -1px  1px 5px skyblue,
+     1px  1px 5px skyblue;
+     
+}
+```
+
 ```{r setup, include = FALSE}
 library(knitr)
 library(readxl)
@@ -13,8 +32,8 @@ library(leaflet)
 library(DT)
 
 opts_chunk$set(echo = FALSE)
-
 ```
+
 
 **IcoLL2026** is the joint conference of the 4th [Iconicity Seminar (IcoSem)](https://ianjoo.github.io/icosem) and the 15th [International Symposium on Iconicity in Language and Literature (ILL)](https://www.iconicity.uzh.ch/en). For the first time, the two international conferences on iconicity will take place together on **21-23 February 2026** hosted by the **Nagoya University Graduate School of Humanities**.
 

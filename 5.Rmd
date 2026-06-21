@@ -1,0 +1,105 @@
+---
+title: "IcoSem5"
+description: |
+  The 5th Iconicity Seminar
+site: distill::distill_website
+---
+
+```{css, echo=FALSE}
+d-title {
+  background-image: url(Daejeon.jpeg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  font-weight: 1000;
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  text-shadow: 
+    -1px -1px 5px pink,  
+     1px -1px 5px pink,
+    -1px  1px 5px pink,
+     1px  1px 5px pink;
+     
+}
+```
+
+```{r setup, include = FALSE}
+library(knitr)
+library(readxl)
+library(tidyverse)
+library(leaflet)
+library(DT)
+
+opts_chunk$set(echo = FALSE)
+```
+
+
+**The 5th Iconicity Seminar** (IcoSem5) will be held in **Daejeon, South Korea** on **1--3 April 2027**.
+
+# Call for papers
+
+IcoSem5 invites abstracts that pertain to **linguistic iconicity**, the resemblance between linguistic form and meaning.
+
+We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
+
+* Sound symbolism
+* Onomatopoeia and ideophones
+* Sign language iconicity
+* Syntactic iconicity
+* Iconicity and language change
+* Iconicity in writing systems
+* Phonaesthetics
+* Phonaesthemes
+
+Please send a 2-page abstract (including everything) in the following format:
+
+* A4 paper
+* 2.5cm margin
+* 12pt Times New Roman
+
+Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp). It will then be reviewed by the organizer.
+
+**The deadline is 30 September 2026**. Decisions will be communicated to you on a rolling basis within two weeks after the submission (and not necessarily after the deadline). We thus encourage you to submit as soon as your abstract is ready so that you can plan your trip well in advance.
+
+# Format of the conference
+
+IcoSem5 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
+
+The language of the conference is English. For hearing-impaired participants, live captions in English will be provided during the presentations.
+
+# Participation fee
+
+The participation fee is 5,000 Korean won for students and 100,000 yen for non-students.
+
+The fee is waived for participants studying or working at a institution of a low income or lower middle income country (as defined by [World Bank](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html)).
+
+# Venue
+
+The conference will be held at the [Daejeon Convention Center](https://www.dcckorea.or.kr/eng/index.do).
+
+# About Daejeon
+
+[Daejeon](https://en.wikipedia.org/wiki/Daejeon) is a city located in central South Korea, easily accessible from Seoul or Busan.
+
+The available international airports are:
+
+-   Incheon International Airport (Incheon) - 2.5 hours to Daejeon
+-   Gimpo International Airport (Seoul) - 1.5 hour
+-   Gimhae International Airport (Busan) - 2 hours
+-   Daegu International Airport (Daegu) - 1 hour
+-   Cheongju International Airport (Cheongju) - 1 hour
+
+The attractions in Daejeon and nearby cities include:
+
+-   [Sung Sim Dang](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=352&vcontsId=140069) - The most famous bakery in Korea
+-   [Daejeon Expo Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95423) - The conference venue is right next to this park
+-   [Yuseong Foot Spa](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=139940) - Soak your feet in a public hot spring
+
+The first week of April is the cherry blossom season in South Korea. While the specific blooming times vary each year, participants may be able to enjoy the blooming flowers in Daejeon.
+
+Seoul is only an hour away and Busan 1.5 hour away from Daejeon by high speed rail, making a day trip easily possible.
+
+# Links
+
+Join our [Facebook group for iconicity](https://www.facebook.com/groups/lingicon)
