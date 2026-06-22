@@ -5,25 +5,6 @@ description: |
 site: distill::distill_website
 ---
 
-```{css, echo=FALSE}
-d-title {
-  background-image: url(Daejeon.jpeg);
-  background-size: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: white;
-  font-weight: 1000;
-  font-family: Arial, sans-serif;
-  font-size: 36px;
-  text-shadow: 
-    -1px -1px 5px pink,  
-     1px -1px 5px pink,
-    -1px  1px 5px pink,
-     1px  1px 5px pink;
-     
-}
-```
-
 ```{r setup, include = FALSE}
 library(knitr)
 library(readxl)

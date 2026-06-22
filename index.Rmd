@@ -1,7 +1,7 @@
 ---
 title: "The Iconicity Seminar"
 description: |
-  Welcome to the website of the Iconicity Seminar, an annual conference dedicated to linguistic iconicity.
+  An annual conference dedicated to linguistic iconicity.
 site: distill::distill_website
 ---
 
@@ -10,4 +10,4 @@ library(knitr)
 opts_chunk$set(echo = FALSE)
 ```
 
-The 4th Iconicity Seminar will be held on 21-23 February 2026 at Nagoya University, Japan, jointly with the 15th International Symposium on Iconicity in Language and Literature.
+The 5th Iconicity Seminar will be held on 1-3 April 2027 in Daejeon, South Korea.
