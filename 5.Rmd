@@ -43,6 +43,14 @@ Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac
 
 **The deadline is 30 September 2026**. Decisions will be communicated to you on a rolling basis within two weeks after the submission (and not necessarily after the deadline). We thus encourage you to submit as soon as your abstract is ready so that you can plan your trip well in advance.
 
+# Accepted papers (so far)
+
+ * Lexicological salience in ideophone semantics: Toward an onomasiological turn (Thomas Van Hoey)
+ * A Multi-Level Iconicity Analysis of Ashkanani’s Ḩusayni Elegy "Yā Muṣḥaf Ma’sātī" (Maha Lafta Marzook)
+ * When is a phonestheme iconic? Tracking English fl- and sw- networks across frequency, polysemy and time (Chris A. Smith)
+ * One-to-many and many-to-one form-meaning mappings in entity classifiers across
+signed languages (Vanessa Wing Yan Tsang)
+
 # Format of the conference
 
 IcoSem5 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
