@@ -51,6 +51,7 @@ Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac
  * One-to-many and many-to-one form-meaning mappings in entity classifiers across
 signed languages (Vanessa Wing Yan Tsang)
  * Hidden words, visible patterns: Preliminary investigation (Victoria Bogushevskaya)
+ * Iconicity in Character Signs used in East Asian Sign Languages (James H. -Y. Tai)
 
 # Format of the conference
 
