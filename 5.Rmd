@@ -53,7 +53,9 @@ signed languages (Vanessa Wing Yan Tsang)
  * Hidden words, visible patterns: Preliminary investigation (Victoria Bogushevskaya)
  * Iconicity in Character Signs used in East Asian Sign Languages (James H. -Y. Tai)
  * Phonological and Prosodic Markedness in Jejuan and Korean Ideophones (Joo Yun Roh)
-
+ * Cross-linguistic evidence for the Attentional Optimization Hypothesis (Alexander Kilpatrick & Rikke Bundgaard-Nielsen)
+ * Swearwords and the information-theoretic structure of phonological word forms (Kensuke Inoue & Alexander Kilpatrick)
+ 
 # Format of the conference
 
 IcoSem5 is an in-person conference without virtual participation, although some virtual presentations may be permitted in exceptional cases.
