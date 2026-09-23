@@ -93,6 +93,8 @@ leaflet(data = DCC) %>%
 
 # About Daejeon
 
+![Daejeon Convention Center](DCC.jpeg){width=100%}
+
 [Daejeon](https://en.wikipedia.org/wiki/Daejeon) [tʰè.d͡ʑʌn] is a city located in central South Korea, easily accessible from Seoul or Busan.
 
 The available international airports are:
