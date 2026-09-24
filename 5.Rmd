@@ -55,6 +55,7 @@ signed languages (Vanessa Wing Yan Tsang)
  * Phonological and Prosodic Markedness in Jejuan and Korean Ideophones (Joo Yun Roh)
  * Cross-linguistic evidence for the Attentional Optimization Hypothesis (Alexander Kilpatrick & Rikke Bundgaard-Nielsen)
  * Swearwords and the information-theoretic structure of phonological word forms (Kensuke Inoue & Alexander Kilpatrick)
+ * Iconicity in Vietnamese Deformation Ideophones (Tang Thi Tuyet Mai) 
  
 # Format of the conference
 
