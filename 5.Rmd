@@ -56,6 +56,7 @@ signed languages (Vanessa Wing Yan Tsang)
  * Cross-linguistic evidence for the Attentional Optimization Hypothesis (Alexander Kilpatrick & Rikke Bundgaard-Nielsen)
  * Swearwords and the information-theoretic structure of phonological word forms (Kensuke Inoue & Alexander Kilpatrick)
  * Iconicity in Vietnamese Deformation Ideophones (Tang Thi Tuyet Mai) 
+ * Relational Iconicity and Its Limits in Chinese Four-Character Idioms (Sina Nemati)
  
 # Format of the conference
 
