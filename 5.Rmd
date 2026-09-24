@@ -57,6 +57,7 @@ signed languages (Vanessa Wing Yan Tsang)
  * Swearwords and the information-theoretic structure of phonological word forms (Kensuke Inoue & Alexander Kilpatrick)
  * Iconicity in Vietnamese Deformation Ideophones (Tang Thi Tuyet Mai) 
  * Relational Iconicity and Its Limits in Chinese Four-Character Idioms (Sina Nemati)
+ * When complex syllables are soft and round, but in an unpleasant way: What newly created languages can tell us about the phonaesthetics of syllable structure (Simon David Stein)
  
 # Format of the conference
 
