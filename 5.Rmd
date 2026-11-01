@@ -20,6 +20,10 @@ opts_chunk$set(echo = FALSE)
 
 # Call for papers
 
+<details>
+
+<summary>See call for papers (now closed) </summary>
+
 IcoSem5 invites abstracts that pertain to **linguistic iconicity**, the resemblance between linguistic form and meaning.
 
 We call for papers for 30-minute presentations (20min presentation + 10min Q&A) dealing with any aspect of linguistic iconicity, such as:
@@ -43,7 +47,9 @@ Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac
 
 **The extended deadline is 31 October 2026**. Decisions will be communicated to you on a rolling basis within two weeks after the submission (and not necessarily after the deadline). We thus encourage you to submit as soon as your abstract is ready so that you can plan your trip well in advance.
 
-# Accepted papers (so far)
+</details>
+
+# Accepted papers
 
  * Lexicological salience in ideophone semantics: Toward an onomasiological turn (Thomas Van Hoey)
  * A Multi-Level Iconicity Analysis of Ashkanani’s Ḩusayni Elegy "Yā Muṣḥaf Ma’sātī" (Maha Lafta Marzook)
@@ -73,6 +79,10 @@ Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac
  * Light-verb constructions between iconicity, event structure, and translation: A Contrastive English–Croatian study (Tanja Gradečak and Vlatka Ivić) 
  * From petroglyphs and ceramics to script and language: Semantics, iconicity, and types of juxtaposition in prototypes and established varieties (Michal Schwarz)
  * From Iconic Event Representation to Metaphorical Meaning: Verb Modulation in Korean Sign Language (Youngju Choi)
+ * Diagrammatic iconicity in a priori constructed languages (Hanna Prakasenka)
+ * Ideophones in Shawi, Shiwilu, and Ajebeko: Form, function, typology, and sociolinguistic insights from three languages from the Peruvian Amazon (Luis Miguel Rojas-Berscia)
+
+
 
  
 # Format of the conference
