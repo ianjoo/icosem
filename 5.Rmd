@@ -49,39 +49,16 @@ Please send your abstract to [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac
 
 </details>
 
-# Accepted papers
+# Program (as of `r Sys.Date()`)
 
- * Lexicological salience in ideophone semantics: Toward an onomasiological turn (Thomas Van Hoey)
- * A Multi-Level Iconicity Analysis of Ashkanani’s Ḩusayni Elegy "Yā Muṣḥaf Ma’sātī" (Maha Lafta Marzook)
- * When is a phonestheme iconic? Tracking English fl- and sw- networks across frequency, polysemy and time (Chris A. Smith)
- * One-to-many and many-to-one form-meaning mappings in entity classifiers across signed languages (Vanessa Wing Yan Tsang)
- * Hidden words, visible patterns: Preliminary investigation (Victoria Bogushevskaya)
- * Iconicity in Character Signs used in East Asian Sign Languages (James H. -Y. Tai)
- * Phonological and Prosodic Markedness in Jejuan and Korean Ideophones (Joo Yun Roh)
- * Cross-linguistic evidence for the Attentional Optimization Hypothesis (Alexander Kilpatrick & Rikke Bundgaard-Nielsen)
- * Swearwords and the information-theoretic structure of phonological word forms (Kensuke Inoue & Alexander Kilpatrick)
- * Iconicity in Vietnamese Deformation Ideophones (Tang Thi Tuyet Mai) 
- * Relational Iconicity and Its Limits in Chinese Four-Character Idioms (Sina Nemati)
- * When complex syllables are soft and round, but in an unpleasant way: What newly created languages can tell us about the phonaesthetics of syllable structure (Simon David Stein)
- * On Chinese iconicity and second language vocabulary acquisition (Huichen Hsiao)
- * The perception of iconicity in International Sign versus Taiwan Sign Language (Jane Tsay)
- * Iconicity in Spanish Evaluative Verbs (Rawaa Almheiri)
- * Viewpoint in event narratives: A cross-modal comparison of Gã and Hong Kong Sign (Josiah Nii Ashie Neequaye and Vanessa Wing Yan Tsang)
- * When is reduplication no longer iconic? A corpus-phonetic study of Korean ideophones (Seungjoon Cho and Sung Do Kim)
- * From parallelism to non-parallelism: Syntactic–semantic correspondence in Classical Chinese prose (Shih-Wen Chyu)
- * Reversal iconicity in Daoist inner alchemical discourse: Form–meaning mapping in the *Cantong qi*, *Wuzhen pian*, and *Zhong-Lü chuandao ji* (Rongguan Dai)
- * Embodied iconicity and gestural accommodation in migration: An exploratory study of Japanese and Italian migrants’ perceptions in Germany (Juliana Neves-Müller and Rolf Kailuweit)
- * Sound-imitating and sound-symbolic words in Arabic, Urdu and Pashto: from everyday sounds to the vocabulary of pain (Sunila Gohar and Numan Ali)
- * Depicting motion in Ch’orti’ Maya: Ideophones in a morphologically integrated predicate class (Kerry Hull)
- * Beyond sound imitation: Semantic, phonological, and syntactic distinctions between ideophones and onomatopoeia in Burak (Niger-Congo, Adamawa) (Miracle Oppong Peprah)
- * Searching for iconic intimacy in academia: Are you my boo? (Robert Connor)
- * Sound, sense and resemblance in translation: Iconicity in Urdu verse translations of Tagore’s Gitanjali (Rani Begum)
- * Light-verb constructions between iconicity, event structure, and translation: A Contrastive English–Croatian study (Tanja Gradečak and Vlatka Ivić) 
- * From petroglyphs and ceramics to script and language: Semantics, iconicity, and types of juxtaposition in prototypes and established varieties (Michal Schwarz)
- * From Iconic Event Representation to Metaphorical Meaning: Verb Modulation in Korean Sign Language (Youngju Choi)
- * Diagrammatic iconicity in a priori constructed languages (Hanna Prakasenka)
- * Ideophones in Shawi, Shiwilu, and Ajebeko: Form, function, typology, and sociolinguistic insights from three languages from the Peruvian Amazon (Luis Miguel Rojas-Berscia)
- * Iconic mapping and morphophonological expressivity in Irula ideophones (Priscilla Angel V and Tanima Bagchi)
+```{r}
+Program <- read_xlsx('IcoSem5Program.xlsx') |> 
+  mutate(Time = format(Time, "%H:%M", tz = "UTC"))
+
+datatable(Program, 
+          rownames = FALSE, 
+          option = list(scrollX = TRUE, pageLength = nrow(Program)))
+```
 
 
 
